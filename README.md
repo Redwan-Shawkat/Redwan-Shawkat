@@ -72,9 +72,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=redwan-shawkat&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redwan-shawkat&" alt="GitHub Streak Stats" />
-</p>
+
 
 ---
 
