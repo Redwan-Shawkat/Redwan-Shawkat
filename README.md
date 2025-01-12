@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Radwan Shawkat</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
-<div align="center">
-  <img>
-</div>
-
 ---
 
 <p align="center">
