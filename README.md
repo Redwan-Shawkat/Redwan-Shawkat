@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+  <img alt="Coding Desk" width="400" src="https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg">
 </div>
 
 ---
