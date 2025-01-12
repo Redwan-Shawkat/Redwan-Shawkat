@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📫 How to reach me **redwanshawkat@gmail.com**
+- 📫 How to reach me: **redwanshawkat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eARPociUZW0CC4tzih45d8RPlknXFwkk/view?usp=sharing)
+- 📄 Know about my experiences: (https://drive.google.com/file/d/1eARPociUZW0CC4tzih45d8RPlknXFwkk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
