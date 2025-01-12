@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammad Radwan Shawkat</h1>
-<h3 align="center">A Passionate Web Developer from Bangladesh</h3>
+# Hi 👋, I'm Mohammad Radwan Shawkat
+
+### A Passionate Web Developer from Bangladesh
 
 - 🌱 **Currently Learning:** MERN Stack  
 - 📫 **Reach Me At:** [redwanshawkat@gmail.com](mailto:redwanshawkat@gmail.com)  
@@ -8,7 +9,7 @@
 
 ---
 
-<h3 align="left">🌐 Connect with Me:</h3>
+### 🌐 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/radwan-shawkat" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -23,7 +24,7 @@
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
+### 💻 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -65,14 +66,17 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redwan-shawkat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=redwan-shawkat&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### 📊 GitHub Stats:
+<details>
+  <summary>Click to View GitHub Stats</summary>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redwan-shawkat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </p>
+  <p align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=redwan-shawkat&show_icons=true&locale=en" alt="GitHub Stats" />
+  </p>
+</details>
 
 ---
 
-<h3 align="center">✨ Thank You for Visiting My Profile ✨</h3>
+### ✨ Thank You for Visiting My Profile ✨
