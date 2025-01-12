@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Radwan Shawkat</h1>
 <h3 align="center">A Passionate Web Developer from Bangladesh</h3>
 
-
-
 - 🌱 **Currently Learning:** MERN Stack  
 - 📫 **Reach Me At:** [redwanshawkat@gmail.com](mailto:redwanshawkat@gmail.com)  
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/1eARPociUZW0CC4tzih45d8RPlknXFwkk/view?usp=sharing)  
@@ -74,7 +72,6 @@
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=redwan-shawkat&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
 
 ---
 
