@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Radwan Shawkat</h1>
 <h3 align="center">A Passionate Web Developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Web Developer GIF" width="500" />
-</p>
-
----
 
 - 🌱 **Currently Learning:** MERN Stack  
 - 📫 **Reach Me At:** [redwanshawkat@gmail.com](mailto:redwanshawkat@gmail.com)  
