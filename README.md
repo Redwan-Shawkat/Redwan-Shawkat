@@ -2,9 +2,11 @@
 <h3 align="center">A Passionate Web Developer from Bangladesh</h3>
 
 
+
 - 🌱 **Currently Learning:** MERN Stack  
 - 📫 **Reach Me At:** [redwanshawkat@gmail.com](mailto:redwanshawkat@gmail.com)  
 - 📄 **Resume:** [View Here](https://drive.google.com/file/d/1eARPociUZW0CC4tzih45d8RPlknXFwkk/view?usp=sharing)  
+- 🌐 **Portfolio:** [Visit Here](https://portfolio-nu-one-65.vercel.app/)  
 
 ---
 
@@ -69,7 +71,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redwan-shawkat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p>
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=redwan-shawkat&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
