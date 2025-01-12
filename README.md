@@ -72,7 +72,7 @@
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redwan-shawkat&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </p>
-  <p align="right">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=redwan-shawkat&show_icons=true&locale=en" alt="GitHub Stats" />
   </p>
 </details>
