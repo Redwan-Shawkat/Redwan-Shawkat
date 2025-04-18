@@ -4,7 +4,7 @@
 
 - 🌱 **Currently Learning:** MERN Stack  
 - 📫 **Reach Me At:** [redwanshawkat@gmail.com](mailto:redwanshawkat@gmail.com)  
-- 📄 **Resume:** [View Here]([https://drive.google.com/file/d/1eARPociUZW0CC4tzih45d8RPlknXFwkk/view?usp=sharing](https://drive.google.com/drive/folders/1RhaPVs74FldgzuVj3vqdw1J948oHBfQc?usp=sharing))  
+- 📄 **Resume:** [View Here](https://drive.google.com/drive/folders/1RhaPVs74FldgzuVj3vqdw1J948oHBfQc?usp=sharing)
 - 🌐 **Portfolio:** [Visit Here](https://portfolio-nu-one-65.vercel.app/)  
 
 ---
