@@ -1,4 +1,11 @@
-# Hi 👋, I'm Mohammad Radwan Shawkat
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&duration=2500&pause=800&color=16A34A,F97316&center=true&vCenter=true&width=700&lines=Mohammad+Radwan+Shawkat" 
+    alt="Mohammad Radwan Shawkat" 
+  />
+</p>
+
+
 
 ### A Passionate Web Developer from Bangladesh
 
