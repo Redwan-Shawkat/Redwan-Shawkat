@@ -4,7 +4,7 @@
 
 - 🌱 **Currently Learning:** MERN Stack  
 - 📫 **Reach Me At:** [redwanshawkat@gmail.com](mailto:redwanshawkat@gmail.com)  
-- 📄 **Resume:** [View Here](https://drive.google.com/drive/folders/1RhaPVs74FldgzuVj3vqdw1J948oHBfQc?usp=sharing)
+- 📄 **Resume:** [View Here](https://drive.google.com/drive/folders/1RhaPVs74FldgzuVj3vqdw1J948oHBfQc?usp=sharing)  
 - 🌐 **Portfolio:** [Visit Here](https://portfolio-nu-one-65.vercel.app/)  
 
 ---
@@ -53,7 +53,7 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
-  <a href="https://postman.com" target="_blank">
+  <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </a>
   <a href="https://www.linux.org/" target="_blank">
@@ -61,6 +61,12 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  </a>
+  <a href="https://lumen.laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Lumen-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Lumen" />
   </a>
 </p>
 
