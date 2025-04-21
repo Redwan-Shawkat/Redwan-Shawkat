@@ -9,7 +9,6 @@
 
 ### A Passionate Web Developer from Bangladesh
 
-- 🌱 **Currently Learning:** MERN Stack  
 - 📫 **Reach Me At:** [redwanshawkat@gmail.com](mailto:redwanshawkat@gmail.com)  
 - 📄 **Resume:** [View Here](https://drive.google.com/drive/folders/1RhaPVs74FldgzuVj3vqdw1J948oHBfQc?usp=sharing)  
 - 🌐 **Portfolio:** [Visit Here](https://portfolio-nu-one-65.vercel.app/)  
